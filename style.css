@@ -1,0 +1,18 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.looks {
+    display: grid;
+    width: 80%;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10 px;
+    margin: 0 30px;
+} 
+.lookes-img {height: 200px;
+            width: 300px;}
+
+
+
+    
